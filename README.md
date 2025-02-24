@@ -13,7 +13,7 @@ npm run test (to run all tests on local)
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 Task Overview
-1. Framework: The project is built using Next.js 14 with the App Router.
+1. Framework: The project is built using Next.js with the App Router.
 2. SSR (Server-Side Rendering): Implemented server-side rendering for improved performance and SEO.
 3. Languages and Styling: The project is developed with TypeScript and styled using Tailwind CSS.
 4. Landing Page: On the homepage, I am displaying a list of GitHub repositories along with a search functionality to filter through the repos.

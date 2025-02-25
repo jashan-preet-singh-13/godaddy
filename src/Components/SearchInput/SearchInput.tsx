@@ -3,6 +3,7 @@ import React, { ChangeEvent, useState } from 'react';
 
 interface Repo {
   name: string;
+  url: string;
 }
 
 interface SearchInputProps {
